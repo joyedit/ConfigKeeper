@@ -4,7 +4,7 @@
   "name": "ConfigKeeper",
   "authors": ["Feyd"],
   "description": "Export and import all Vintage Story settings (client, server, mod configs, macros, server favorites, and installed mods) for easy backup and restoration across PCs or OS reinstalls.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "dependencies": {
     "game": ""
   },
